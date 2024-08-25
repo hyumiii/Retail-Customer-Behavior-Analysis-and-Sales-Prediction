@@ -1,5 +1,6 @@
 # Online Retail Sales Data Analysis
 
+(See "Segmentation_and Prediction_Model.ipynb" for the full code)
 <br>
 
 ## Introduction
