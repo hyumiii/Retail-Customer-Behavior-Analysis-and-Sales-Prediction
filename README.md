@@ -105,3 +105,4 @@ The next phase involves developing an interactive Tableau dashboard to:
 - Enhance strategic decision-making and operational efficiency
 
 This dashboard will streamline operations, enhance strategic decisions, and contribute to sustained business growth by providing a comprehensive overview of key business metrics.
+[Visit Dashboard](https://public.tableau.com/app/profile/yuting.hu5191/viz/Project_17246389172000/Dashboard1)
