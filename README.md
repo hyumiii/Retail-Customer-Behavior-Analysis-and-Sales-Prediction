@@ -50,6 +50,31 @@ The project is divided into two main components:
 
 <br>
 
+## Setup
+
+To get started with the project, follow these steps:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/hyumiii/Retail-Customer-Behavior-Analysis-and-Sales-Prediction.git
+   cd Retail-Customer-Behavior-Analysis-and-Sales-Prediction
+   ```
+
+2. **Install Required Packages**:
+   Ensure you have Python installed, then install the required packages using pip:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the Model**:
+   You can run the model using the following command:
+   ```bash
+   python main.py
+   ```
+
+4. **View Results**:
+   Results, including customer segmentation and sales predictions, will be displayed in the console and saved as output files in the `/results` directory.
+   
 ## Future Work
 
 - **Explore Alternative Predictive Models**: Investigate advanced models like XGBoost, LightGBM, or neural networks for potentially improved accuracy.
