@@ -22,19 +22,19 @@ The project is divided into two main components:
 #### 1. Customer Segmentation Model
 - **Clusters Identified**: The unsupervised learning model identified four optimal clusters based on customer demographics and purchasing behavior (see Figure 13), as suggested by the elbow method (see Figure 12). Each cluster represents a distinct segment of the customer base, characterized by age groups and product category preferences:
 
-- #### **Cluster 0 (Ages 51-87):**  
+- #### **Cluster 1 (Ages 51-87):**  
   - **Findings:** Preference for beauty, personal care, and home products, with a focus on self-care, comfort, brand loyalty, and less price sensitivity. They value quality and reliability.
   - **Insights:** Emphasize product reliability and health benefits through traditional media and targeted online campaigns. Develop products that focus on ease of use, ergonomics, and health-oriented features.
 
-- #### **Cluster 1 (Ages 31-50):**  
+- #### **Cluster 2 (Ages 31-50):**  
   - **Findings:** Interest in home and food products, driven by the balance of family life and career, with a focus on value, convenience, and quality.
   - **Insights:** Highlight product efficiency, family benefits, and cost-effectiveness, especially during key seasons. Develop multi-functional or eco-friendly home products and time-saving meal solutions.
 
-- #### **Cluster 2 (Ages 21-40):**  
+- #### **Cluster 3 (Ages 21-40):**  
   - **Findings:** Strong inclination towards electronics and food, driven by tech-savviness, convenience, and trend-following, with less brand loyalty and a preference for online shopping.
   - **Insights:** Utilize social media, influencer partnerships, and highlight trendy product features. Innovate in smart home tech and health-oriented convenience foods.
 
-- #### **Cluster 3 (Ages 0-30):**  
+- #### **Cluster 4 (Ages 0-30):**  
   - **Findings:** Interest in electronics and beauty/personal care products, with a focus on innovation, personal image, price sensitivity, and strong social media influence.
   - **Insights:** Focus on visually appealing ads on social platforms, use promotions and discounts. Develop affordable, trendy electronics, and eco-friendly beauty products.
 
